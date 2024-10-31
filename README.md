@@ -1,7 +1,7 @@
 # PW Skills Assignment 63
 
 ## API Documentation
-Refer to the API documentation for endpoint details:
+Refer to the API documentation for API endpoint details:
 [POSTMAN API Documentation Link](https://documenter.getpostman.com/view/27690357/2sAY4vhNM5)
 
 ## Getting Started
